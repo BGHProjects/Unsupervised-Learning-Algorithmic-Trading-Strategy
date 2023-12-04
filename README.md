@@ -22,7 +22,7 @@
 ## Algorithmic Trading Strategy Overview
 
 - The first step in the process involves downloading or loading data on stock prices for the S&P 500.
-- Once the data is acquired, various features and indicators are calculated for each individual stock.
+- Once the data is acquired, various features and indicators are calculated for each individual stock, including [Garman-Klass Volatility](https://breakingdownfinance.com/finance-topics/risk-management/garman-klass-volatility/), [Relative Strength Index](https://www.investopedia.com/terms/r/rsi.asp), [Bollinger Bands](https://www.fidelity.com/learning-center/trading-investing/technical-analysis/technical-indicator-guide/bollinger-bands#:~:text=Bollinger%20Bands%20are%20envelopes%20plotted,Period%20and%20Standard%20Deviations%2C%20StdDev.), [Average True Range](<https://www.fidelity.com/learning-center/trading-investing/technical-analysis/technical-indicator-guide/atr#:~:text=Average%20True%20Range%20(ATR)%20is,daily%2C%20weekly%2C%20or%20monthly.>), [Moving Average Convergence Divergence](https://www.investopedia.com/terms/m/macd.asp), and [Dollar Volume](https://help.tc2000.com/m/69404/l/745295-dollar-volume)
 - Moving to an aggregate level, the data is then filtered to include only the top 150 most liquid stocks, focusing on a monthly timeframe.
 - Subsequently, monthly returns are calculated for different time horizons, providing insights into the performance of the selected stocks over time.
 - To further enhance the analysis, Fama-French Factors are downloaded, and rolling factor betas are calculated for additional insights into the factors influencing stock returns.
