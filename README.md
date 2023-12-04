@@ -6,9 +6,9 @@
 <a href="https://jupyter.org/"><img src="./readme-content/Jupyter.png" width="70" height="75"></a>
 <a href="https://numpy.org/"><img src="./readme-content/Numpy.png" width="75" height="75"></a>
 <a href="https://matplotlib.org/"><img src="./readme-content/Matplotlib.png" width="75" height="75"></a>
-<a href="https://pandas.pydata.org/"><img src="./readme_content/Pandas.png" width="75" height="75"></a>
-<a href="https://pypi.org/project/yfinance/"><img src="./readme_content/Yahoo-Finance.png" width="75" height="75"></a>
-<a href="https://pypi.org/project/pyportfolioopt/"><img src="./readme_content/PyPortfolioOpt.png" width="160" height="75"></a>
+<a href="https://pandas.pydata.org/"><img src="./readme-content/Pandas.png" width="75" height="75"></a>
+<a href="https://pypi.org/project/yfinance/"><img src="./readme-content/Yahoo-Finance.png" width="75" height="75"></a>
+<a href="https://pypi.org/project/pyportfolioopt/"><img src="./readme-content/PyPortfolioOpt.png" width="160" height="75"></a>
 </div>
 
 </br>
