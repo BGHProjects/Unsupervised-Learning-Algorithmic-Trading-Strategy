@@ -8,7 +8,7 @@
 <a href="https://matplotlib.org/"><img src="./readme-content/Matplotlib.png" width="75" height="75"></a>
 <a href="https://pandas.pydata.org/"><img src="./readme-content/Pandas.png" width="75" height="75"></a>
 <a href="https://pypi.org/project/yfinance/"><img src="./readme-content/Yahoo-Finance.png" width="75" height="75"></a>
-<a href="https://pypi.org/project/pyportfolioopt/"><img src="./readme-content/PyPortfolioOpt.png" width="160" height="75"></a>
+<a href="https://pypi.org/project/pyportfolioopt/"><img src="./readme-content/PyPortfolioOpt.png" width="150" height="75"></a>
 </div>
 
 </br>
